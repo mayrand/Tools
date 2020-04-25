@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="makepasswd">
+</Property><Property Name="Solution File" Value="C:\Projekty\makepasswd\makepasswd.sln">
+</Property><Property Name="User Options File" Value="C:\Projekty\makepasswd\makepasswd.suo">
+</Property><Property Name="Date" Value="13 września 2010">
+</Property><Property Name="Time" Value="15:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="makepasswd.sln" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\makepasswd.sln">
+</Event><Event ErrorLevel="0" Project="" Source="makepasswd.suo" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\makepasswd.suo">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="makepasswd.csproj" Description="Project file successfully backed up as C:\Projekty\makepasswd\Backup\makepasswd.csproj">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="makepasswd.csproj.user" Description="Project user file successfully backed up as C:\Projekty\makepasswd\Backup\makepasswd.csproj.user">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="makepasswd.cs" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\makepasswd.cs">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="MD5Crypt.cs" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\MD5Crypt.cs">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="RandomPassword.cs" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\RandomPassword.cs">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projekty\makepasswd\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="makepasswd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="makepasswd" Source="makepasswd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="makepasswd.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="makepasswd.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="makepasswd" Source="makepasswd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
